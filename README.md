@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+## Array
+|  |
+| ------- |
+| [1657-find-the-winner-of-an-array-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1657-find-the-winner-of-an-array-game) |
+## Simulation
+|  |
+| ------- |
+| [1657-find-the-winner-of-an-array-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1657-find-the-winner-of-an-array-game) |
 <!---LeetCode Topics End-->
