@@ -26,8 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
+| [1782-smallest-string-with-a-given-numeric-value](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 ## Matrix
 |  |
 | ------- |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
+## String
+|  |
+| ------- |
+| [1782-smallest-string-with-a-given-numeric-value](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 <!---LeetCode Topics End-->
