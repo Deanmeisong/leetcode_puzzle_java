@@ -10,7 +10,7 @@ class Solution {
 
     private int dfs(int i, int j) {
         if(i >= n) return 1;
-        // if(f[i][j] != null) return f[i][j];
+        if(f[i][j] != null) return f[i][j];
         int ans = 0;
         for(int k = j; k < 5; ++k) {
             ans += dfs(i+1, k);
