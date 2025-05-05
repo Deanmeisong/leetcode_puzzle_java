@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 ## Matrix
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 ## Prefix Sum
 |  |
@@ -58,10 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1752-arithmetic-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1752-arithmetic-subarrays) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 ## Sorting
 |  |
 | ------- |
 | [1752-arithmetic-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1752-arithmetic-subarrays) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 ## Dynamic Programming
 |  |
 | ------- |
