@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1657-find-the-winner-of-an-array-game) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1761-count-sorted-vowel-strings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1761-count-sorted-vowel-strings) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 ## Combinatorics
 |  |
 | ------- |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1792-find-the-most-competitive-subsequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 <!---LeetCode Topics End-->
