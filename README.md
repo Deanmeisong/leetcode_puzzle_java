@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [1788-stone-game-vi](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1788-stone-game-vi) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1792-find-the-most-competitive-subsequence) |
+| [1804-maximum-binary-string-after-change](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1804-maximum-binary-string-after-change) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Matrix
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1777-determine-if-two-strings-are-close) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1782-smallest-string-with-a-given-numeric-value) |
+| [1804-maximum-binary-string-after-change](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1804-maximum-binary-string-after-change) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Prefix Sum
 |  |
