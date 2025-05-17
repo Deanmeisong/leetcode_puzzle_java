@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1792-find-the-most-competitive-subsequence](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1813-maximum-erasure-value) |
+| [1824-maximum-number-of-eaten-apples](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1824-maximum-number-of-eaten-apples) |
 ## Simulation
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1792-find-the-most-competitive-subsequence](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1804-maximum-binary-string-after-change](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1804-maximum-binary-string-after-change) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1824-maximum-number-of-eaten-apples](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1824-maximum-number-of-eaten-apples) |
 ## Matrix
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1788-stone-game-vi](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1788-stone-game-vi) |
+| [1824-maximum-number-of-eaten-apples](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1824-maximum-number-of-eaten-apples) |
 ## Game Theory
 |  |
 | ------- |
