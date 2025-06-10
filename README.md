@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1788-stone-game-vi](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1788-stone-game-vi) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Combinatorics
 |  |
 | ------- |
