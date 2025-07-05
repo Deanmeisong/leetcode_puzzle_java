@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1961-maximum-ice-cream-bars](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1961-maximum-ice-cream-bars) |
+| [2011-maximum-value-after-insertion](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2011-maximum-value-after-insertion) |
 ## Matrix
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2001-jump-game-vii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2001-jump-game-vii) |
+| [2011-maximum-value-after-insertion](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2011-maximum-value-after-insertion) |
 ## Prefix Sum
 |  |
 | ------- |
