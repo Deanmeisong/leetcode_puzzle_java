@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2012-process-tasks-using-servers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2012-process-tasks-using-servers) |
 | [2019-product-of-two-run-length-encoded-arrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2019-product-of-two-run-length-encoded-arrays) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2027-maximum-number-of-removable-characters) |
 ## Simulation
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2011-maximum-value-after-insertion](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2011-maximum-value-after-insertion) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Matrix
 |  |
 | ------- |
