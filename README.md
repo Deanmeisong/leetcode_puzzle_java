@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-jump-game-vii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2001-jump-game-vii) |
 | [2011-maximum-value-after-insertion](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2011-maximum-value-after-insertion) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2027-maximum-number-of-removable-characters) |
+| [2033-the-number-of-full-rounds-you-have-played](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2033-the-number-of-full-rounds-you-have-played](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 ## Combinatorics
 |  |
 | ------- |
