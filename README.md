@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-find-the-winner-of-an-array-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Greedy
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2001-jump-game-vii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2001-jump-game-vii) |
 | [2011-maximum-value-after-insertion](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2011-maximum-value-after-insertion) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2027-maximum-number-of-removable-characters) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 ## Prefix Sum
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1792-find-the-most-competitive-subsequence) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Counting
 |  |
 | ------- |
