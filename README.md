@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2011-maximum-value-after-insertion](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2011-maximum-value-after-insertion) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2039-sum-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2039-sum-game) |
 ## Matrix
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2027-maximum-number-of-removable-characters) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2033-the-number-of-full-rounds-you-have-played) |
+| [2039-sum-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2039-sum-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2033-the-number-of-full-rounds-you-have-played) |
+| [2039-sum-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2039-sum-game) |
 ## Combinatorics
 |  |
 | ------- |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1788-stone-game-vi](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1788-stone-game-vi) |
+| [2039-sum-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2039-sum-game) |
 ## Ordered Set
 |  |
 | ------- |
