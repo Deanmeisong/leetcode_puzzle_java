@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2027-maximum-number-of-removable-characters) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Simulation
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1813-maximum-erasure-value) |
 | [1830-count-good-meals](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1830-count-good-meals) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Sorting
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1788-stone-game-vi](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1788-stone-game-vi) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1824-maximum-number-of-eaten-apples) |
 | [2012-process-tasks-using-servers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2012-process-tasks-using-servers) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Game Theory
 |  |
 | ------- |
