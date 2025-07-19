@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2055-describe-the-painting](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2055-describe-the-painting) |
 | [2077-largest-number-after-mutating-substring](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2077-largest-number-after-mutating-substring) |
+| [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 ## Simulation
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2039-sum-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2039-sum-game) |
 | [2077-largest-number-after-mutating-substring](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2077-largest-number-after-mutating-substring) |
+| [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 ## Matrix
 |  |
 | ------- |
