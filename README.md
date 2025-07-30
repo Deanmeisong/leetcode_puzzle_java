@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2124-first-day-where-you-have-been-in-all-the-rooms](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2124-first-day-where-you-have-been-in-all-the-rooms) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2138-sum-of-beauty-in-the-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2138-sum-of-beauty-in-the-array) |
 ## Simulation
 |  |
 | ------- |
