@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-jump-game-vii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2001-jump-game-vii) |
 | [2055-describe-the-painting](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2055-describe-the-painting) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2145-grid-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2145-grid-game) |
 ## Breadth-First Search
 |  |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1946-minimum-absolute-sum-difference](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1946-minimum-absolute-sum-difference) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2027-maximum-number-of-removable-characters) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Sliding Window
 |  |
 | ------- |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1813-maximum-erasure-value) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2001-jump-game-vii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2001-jump-game-vii) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Monotonic Stack
 |  |
 | ------- |
