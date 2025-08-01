@@ -8,13 +8,11 @@ class Solution {
     }
 
     private int f(char c) {
-        int l = 0, n = s.length, cnt = 0;
+        int l = 0, cnt = 0;
         for(char ch : s) {
             cnt += ch == c ? 1 : 0;
-            if(cnt > k) {
-                cnt -= s[l++] == c ? 1 : 0;
-            }
+            if(cnt > k) cnt -= s[l++] == c ? 1 : 0;
         }
-        return n - l;
+        return s.length - l;
     }
 }
