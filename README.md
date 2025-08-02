@@ -308,4 +308,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+## Graph
+|  |
+| ------- |
+| [1101-parallel-courses](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1101-parallel-courses) |
+## Topological Sort
+|  |
+| ------- |
+| [1101-parallel-courses](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1101-parallel-courses) |
 <!---LeetCode Topics End-->
