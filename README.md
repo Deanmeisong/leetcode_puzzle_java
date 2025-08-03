@@ -4,15 +4,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1091-maximum-average-subtree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1091-maximum-average-subtree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
+| [1091-maximum-average-subtree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1091-maximum-average-subtree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Binary Tree
 |  |
 | ------- |
+| [1091-maximum-average-subtree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1091-maximum-average-subtree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Array
 |  |
