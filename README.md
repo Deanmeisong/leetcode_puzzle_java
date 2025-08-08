@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1307-ugly-number-iii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1307-ugly-number-iii) |
 | [1761-count-sorted-vowel-strings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1761-count-sorted-vowel-strings) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1788-stone-game-vi](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1788-stone-game-vi) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1307-ugly-number-iii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1307-ugly-number-iii) |
 | [1761-count-sorted-vowel-strings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1761-count-sorted-vowel-strings) |
 ## Stack
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1134-shortest-distance-to-target-color](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1134-shortest-distance-to-target-color) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1143-find-smallest-common-element-in-all-rows) |
+| [1307-ugly-number-iii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1307-ugly-number-iii) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1946-minimum-absolute-sum-difference) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1307-ugly-number-iii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1307-ugly-number-iii) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Graph
 |  |
