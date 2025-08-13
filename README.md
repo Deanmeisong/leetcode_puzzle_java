@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1134-shortest-distance-to-target-color](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1134-shortest-distance-to-target-color) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1143-find-smallest-common-element-in-all-rows) |
+| [1165-meeting-scheduler](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1165-meeting-scheduler) |
 | [1190-smallest-common-region](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1190-smallest-common-region) |
 | [1200-remove-interval](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1200-remove-interval) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1165-meeting-scheduler](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1165-meeting-scheduler) |
 | [1752-arithmetic-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1752-arithmetic-subarrays) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1777-determine-if-two-strings-are-close) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [1165-meeting-scheduler](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1165-meeting-scheduler) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1988-minimize-maximum-pair-sum-in-array) |
