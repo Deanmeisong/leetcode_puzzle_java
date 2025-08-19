@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1449-print-words-vertically](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1449-print-words-vertically) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
+| [1483-rank-teams-by-votes](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1483-rank-teams-by-votes) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1752-arithmetic-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1752-arithmetic-subarrays) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-smallest-common-region](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1190-smallest-common-region) |
 | [1449-print-words-vertically](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1449-print-words-vertically) |
+| [1483-rank-teams-by-votes](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1483-rank-teams-by-votes) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1190-smallest-common-region](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1190-smallest-common-region) |
+| [1483-rank-teams-by-votes](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1483-rank-teams-by-votes) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1752-arithmetic-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1752-arithmetic-subarrays) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1253-sort-the-matrix-diagonally) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
+| [1483-rank-teams-by-votes](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1483-rank-teams-by-votes) |
 | [1752-arithmetic-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1752-arithmetic-subarrays) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1777-determine-if-two-strings-are-close) |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1143-find-smallest-common-element-in-all-rows) |
+| [1483-rank-teams-by-votes](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1483-rank-teams-by-votes) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1777-determine-if-two-strings-are-close) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
