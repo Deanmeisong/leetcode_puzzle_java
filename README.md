@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-remove-interval](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1200-remove-interval) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1253-sort-the-matrix-diagonally) |
+| [1284-four-divisors](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1284-four-divisors) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1449-print-words-vertically](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1449-print-words-vertically) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1284-four-divisors](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1284-four-divisors) |
 | [1307-ugly-number-iii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1307-ugly-number-iii) |
 | [1761-count-sorted-vowel-strings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1761-count-sorted-vowel-strings) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
