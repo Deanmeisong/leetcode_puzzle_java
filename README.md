@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1091-maximum-average-subtree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1091-maximum-average-subtree) |
 | [1190-smallest-common-region](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1190-smallest-common-region) |
+| [1432-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1432-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Depth-First Search
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1091-maximum-average-subtree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1091-maximum-average-subtree) |
 | [1190-smallest-common-region](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1190-smallest-common-region) |
+| [1432-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1432-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1091-maximum-average-subtree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1091-maximum-average-subtree) |
+| [1432-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1432-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Array
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1142-minimum-knight-moves](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1142-minimum-knight-moves) |
 | [1190-smallest-common-region](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1190-smallest-common-region) |
+| [1432-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1432-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1876-map-of-highest-peak](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1876-map-of-highest-peak) |
 ## Enumeration
