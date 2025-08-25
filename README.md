@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1284-four-divisors](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1284-four-divisors) |
 | [1307-ugly-number-iii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1307-ugly-number-iii) |
 | [1543-simplified-fractions](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1543-simplified-fractions) |
+| [1585-the-kth-factor-of-n](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1585-the-kth-factor-of-n) |
 | [1761-count-sorted-vowel-strings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1761-count-sorted-vowel-strings) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1788-stone-game-vi](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1788-stone-game-vi) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1307-ugly-number-iii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1307-ugly-number-iii) |
 | [1543-simplified-fractions](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1543-simplified-fractions) |
+| [1585-the-kth-factor-of-n](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1585-the-kth-factor-of-n) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Graph
 |  |
