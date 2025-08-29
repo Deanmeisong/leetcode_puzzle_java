@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1782-smallest-string-with-a-given-numeric-value) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1543-simplified-fractions](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1543-simplified-fractions) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1628-count-submatrices-with-all-ones) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2021-remove-all-occurrences-of-a-substring) |
