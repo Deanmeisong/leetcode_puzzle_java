@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-subrectangle-queries](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1572-subrectangle-queries) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1628-count-submatrices-with-all-ones) |
+| [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1752-arithmetic-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1752-arithmetic-subarrays) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1782-smallest-string-with-a-given-numeric-value) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1783-ways-to-make-a-fair-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-smallest-common-region](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1190-smallest-common-region) |
 | [1483-rank-teams-by-votes](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1483-rank-teams-by-votes) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1752-arithmetic-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1752-arithmetic-subarrays) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
