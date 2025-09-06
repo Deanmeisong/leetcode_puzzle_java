@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1276-closest-divisors](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1276-closest-divisors) |
 | [1284-four-divisors](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1284-four-divisors) |
 | [1307-ugly-number-iii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1307-ugly-number-iii) |
 | [1543-simplified-fractions](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1543-simplified-fractions) |
