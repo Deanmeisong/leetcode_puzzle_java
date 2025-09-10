@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1739-split-two-strings-to-make-palindrome](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1165-meeting-scheduler](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1165-meeting-scheduler) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1739-split-two-strings-to-make-palindrome](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1988-minimize-maximum-pair-sum-in-array) |
