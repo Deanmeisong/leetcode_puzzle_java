@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1101-parallel-courses](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1101-parallel-courses) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1738-maximal-network-rank](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1738-maximal-network-rank) |
 ## Topological Sort
 |  |
 | ------- |
