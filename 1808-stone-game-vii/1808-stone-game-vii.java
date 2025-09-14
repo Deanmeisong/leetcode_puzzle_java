@@ -19,8 +19,6 @@ class Solution {
         if (f[i][j] != null) {
             return f[i][j];
         }
-        int a = s[j + 1] - s[i + 1] - dfs(i + 1, j);
-        int b = s[j] - s[i] - dfs(i, j - 1);
-        return f[i][j] = Math.max(a, b);
+        return f[i][j] = Math.max(s[j + 1] - s[i + 1] - dfs(i + 1, j), s[j] - s[i] - dfs(i, j - 1));
     }
 }
