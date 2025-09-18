@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1824-maximum-number-of-eaten-apples](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1830-count-good-meals](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1830-count-good-meals) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1876-map-of-highest-peak](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1628-count-submatrices-with-all-ones) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1876-map-of-highest-peak](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1876-map-of-highest-peak) |
 | [2080-check-if-move-is-legal](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2080-check-if-move-is-legal) |
 | [2089-maximum-matrix-sum](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2089-maximum-matrix-sum) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1783-ways-to-make-a-fair-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1940-maximum-xor-for-each-query](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1940-maximum-xor-for-each-query) |
 | [2001-jump-game-vii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2001-jump-game-vii) |
 | [2055-describe-the-painting](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2055-describe-the-painting) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1777-determine-if-two-strings-are-close) |
 | [1788-stone-game-vi](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1788-stone-game-vi) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1946-minimum-absolute-sum-difference) |
 | [1961-maximum-ice-cream-bars](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -367,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1940-maximum-xor-for-each-query](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Two Pointers
@@ -388,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1788-stone-game-vi](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1788-stone-game-vi) |
 | [1814-jump-game-vi](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1814-jump-game-vi) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1824-maximum-number-of-eaten-apples) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2012-process-tasks-using-servers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2012-process-tasks-using-servers) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -428,10 +434,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
 | ------- |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Number Theory
 |  |
