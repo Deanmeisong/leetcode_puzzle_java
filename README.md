@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1788-stone-game-vi](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1788-stone-game-vi) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1792-find-the-most-competitive-subsequence) |
+| [1793-minimum-moves-to-make-array-complementary](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1808-stone-game-vii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1808-stone-game-vii) |
 | [1813-maximum-erasure-value](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1813-maximum-erasure-value) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1783-ways-to-make-a-fair-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1793-minimum-moves-to-make-array-complementary](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1940-maximum-xor-for-each-query) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1777-determine-if-two-strings-are-close) |
+| [1793-minimum-moves-to-make-array-complementary](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1813-maximum-erasure-value) |
 | [1830-count-good-meals](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1830-count-good-meals) |
