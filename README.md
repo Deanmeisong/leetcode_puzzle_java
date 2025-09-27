@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1940-maximum-xor-for-each-query](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1940-maximum-xor-for-each-query) |
+| [1945-finding-the-users-active-minutes](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1945-finding-the-users-active-minutes) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1946-minimum-absolute-sum-difference) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1961-maximum-ice-cream-bars](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1961-maximum-ice-cream-bars) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1943-count-pairs-of-equal-substrings-with-minimum-difference](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1943-count-pairs-of-equal-substrings-with-minimum-difference) |
+| [1945-finding-the-users-active-minutes](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1945-finding-the-users-active-minutes) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2055-describe-the-painting](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2055-describe-the-painting) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2059-unique-length-3-palindromic-subsequences) |
