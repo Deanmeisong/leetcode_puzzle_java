@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-finding-the-users-active-minutes](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1945-finding-the-users-active-minutes) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1946-minimum-absolute-sum-difference) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1961-maximum-ice-cream-bars) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1824-maximum-number-of-eaten-apples](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [1943-count-pairs-of-equal-substrings-with-minimum-difference](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1943-count-pairs-of-equal-substrings-with-minimum-difference) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2011-maximum-value-after-insertion](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2011-maximum-value-after-insertion) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1946-minimum-absolute-sum-difference) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2055-describe-the-painting](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2055-describe-the-painting) |
