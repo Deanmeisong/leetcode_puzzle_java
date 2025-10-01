@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1943-count-pairs-of-equal-substrings-with-minimum-difference](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1943-count-pairs-of-equal-substrings-with-minimum-difference) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1961-maximum-ice-cream-bars) |
+| [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2011-maximum-value-after-insertion](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2011-maximum-value-after-insertion) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1943-count-pairs-of-equal-substrings-with-minimum-difference](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1943-count-pairs-of-equal-substrings-with-minimum-difference) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
+| [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [2001-jump-game-vii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2001-jump-game-vii) |
 | [2011-maximum-value-after-insertion](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2011-maximum-value-after-insertion) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2019-product-of-two-run-length-encoded-arrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2019-product-of-two-run-length-encoded-arrays) |
