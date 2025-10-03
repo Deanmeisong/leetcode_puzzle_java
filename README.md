@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+| [2009-longest-word-with-all-prefixes](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2009-longest-word-with-all-prefixes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1985-maximum-subarray-min-product](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1985-maximum-subarray-min-product) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2009-longest-word-with-all-prefixes](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2009-longest-word-with-all-prefixes) |
 | [2012-process-tasks-using-servers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2012-process-tasks-using-servers) |
 | [2019-product-of-two-run-length-encoded-arrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2019-product-of-two-run-length-encoded-arrays) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [2001-jump-game-vii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2001-jump-game-vii) |
+| [2009-longest-word-with-all-prefixes](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2009-longest-word-with-all-prefixes) |
 | [2011-maximum-value-after-insertion](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2011-maximum-value-after-insertion) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2027-maximum-number-of-removable-characters) |
@@ -519,4 +522,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+## Trie
+|  |
+| ------- |
+| [2009-longest-word-with-all-prefixes](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2009-longest-word-with-all-prefixes) |
 <!---LeetCode Topics End-->
