@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2027-maximum-number-of-removable-characters) |
+| [2045-cutting-ribbons](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2045-cutting-ribbons) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2055-describe-the-painting](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2055-describe-the-painting) |
 | [2077-largest-number-after-mutating-substring](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2077-largest-number-after-mutating-substring) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1946-minimum-absolute-sum-difference](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1946-minimum-absolute-sum-difference) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2027-maximum-number-of-removable-characters) |
+| [2045-cutting-ribbons](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2045-cutting-ribbons) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Sliding Window
 |  |
