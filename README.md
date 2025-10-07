@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2009-longest-word-with-all-prefixes](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2009-longest-word-with-all-prefixes) |
+| [2035-count-sub-islands](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2027-maximum-number-of-removable-characters) |
+| [2035-count-sub-islands](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2035-count-sub-islands) |
 | [2045-cutting-ribbons](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2045-cutting-ribbons) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2055-describe-the-painting](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2055-describe-the-painting) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1876-map-of-highest-peak](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1876-map-of-highest-peak) |
+| [2035-count-sub-islands](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2035-count-sub-islands) |
 | [2080-check-if-move-is-legal](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2080-check-if-move-is-legal) |
 | [2089-maximum-matrix-sum](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2145-grid-game) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1876-map-of-highest-peak](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1876-map-of-highest-peak) |
+| [2035-count-sub-islands](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2035-count-sub-islands) |
 ## Enumeration
 |  |
 | ------- |
@@ -528,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+| [2035-count-sub-islands](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2035-count-sub-islands) |
 ## Shortest Path
 |  |
 | ------- |
