@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2027-maximum-number-of-removable-characters](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2027-maximum-number-of-removable-characters) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2039-sum-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2039-sum-game) |
+| [2044-number-of-wonderful-substrings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2077-largest-number-after-mutating-substring](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2077-largest-number-after-mutating-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-maximum-subarray-min-product](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1985-maximum-subarray-min-product) |
 | [2001-jump-game-vii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2001-jump-game-vii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2044-number-of-wonderful-substrings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2044-number-of-wonderful-substrings) |
 | [2055-describe-the-painting](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2055-describe-the-painting) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1943-count-pairs-of-equal-substrings-with-minimum-difference](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1943-count-pairs-of-equal-substrings-with-minimum-difference) |
 | [1945-finding-the-users-active-minutes](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1945-finding-the-users-active-minutes) |
+| [2044-number-of-wonderful-substrings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2044-number-of-wonderful-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2055-describe-the-painting](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2055-describe-the-painting) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1940-maximum-xor-for-each-query](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1940-maximum-xor-for-each-query) |
+| [2044-number-of-wonderful-substrings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Two Pointers
 |  |
