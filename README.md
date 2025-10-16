@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2027-maximum-number-of-removable-characters) |
+| [2034-minimum-absolute-difference-queries](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2034-minimum-absolute-difference-queries) |
 | [2035-count-sub-islands](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2045-cutting-ribbons](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2045-cutting-ribbons) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1943-count-pairs-of-equal-substrings-with-minimum-difference](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1943-count-pairs-of-equal-substrings-with-minimum-difference) |
 | [1945-finding-the-users-active-minutes](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1945-finding-the-users-active-minutes) |
+| [2034-minimum-absolute-difference-queries](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2034-minimum-absolute-difference-queries) |
 | [2044-number-of-wonderful-substrings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2044-number-of-wonderful-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2055-describe-the-painting](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2055-describe-the-painting) |
