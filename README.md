@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2009-longest-word-with-all-prefixes](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2009-longest-word-with-all-prefixes) |
 | [2035-count-sub-islands](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2035-count-sub-islands) |
+| [2103-find-all-groups-of-farmland](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2103-find-all-groups-of-farmland) |
 ## Binary Tree
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2089-maximum-matrix-sum](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2103-find-all-groups-of-farmland](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2103-find-all-groups-of-farmland) |
 | [2107-find-unique-binary-string](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2117-find-original-array-from-doubled-array) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2047-find-a-peak-element-ii) |
 | [2080-check-if-move-is-legal](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2080-check-if-move-is-legal) |
 | [2089-maximum-matrix-sum](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2089-maximum-matrix-sum) |
+| [2103-find-all-groups-of-farmland](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2103-find-all-groups-of-farmland) |
 | [2145-grid-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2145-grid-game) |
 ## String
 |  |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2103-find-all-groups-of-farmland](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2103-find-all-groups-of-farmland) |
 ## Enumeration
 |  |
 | ------- |
