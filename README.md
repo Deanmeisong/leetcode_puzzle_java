@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2066-add-minimum-number-of-rungs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2066-add-minimum-number-of-rungs) |
 | [2077-largest-number-after-mutating-substring](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2077-largest-number-after-mutating-substring) |
 | [2080-check-if-move-is-legal](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2080-check-if-move-is-legal) |
+| [2081-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2081-minimum-total-space-wasted-with-k-resizing-operations) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2089-maximum-matrix-sum](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2089-maximum-matrix-sum) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2001-jump-game-vii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2001-jump-game-vii) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2081-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2081-minimum-total-space-wasted-with-k-resizing-operations) |
 | [2124-first-day-where-you-have-been-in-all-the-rooms](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2124-first-day-where-you-have-been-in-all-the-rooms) |
 ## Math
 |  |
