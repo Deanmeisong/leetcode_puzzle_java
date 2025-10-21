@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2145-grid-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2089-maximum-matrix-sum) |
 | [2103-find-all-groups-of-farmland](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2103-find-all-groups-of-farmland) |
 | [2145-grid-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## String
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2117-find-original-array-from-doubled-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2039-sum-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2039-sum-game) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Combinatorics
 |  |
 | ------- |
