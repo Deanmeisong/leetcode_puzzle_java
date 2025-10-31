@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2117-find-original-array-from-doubled-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2117-find-original-array-from-doubled-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 ## Matrix
 |  |
 | ------- |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2165-plates-between-candles](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2165-plates-between-candles) |
 | [2187-vowels-of-all-substrings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2187-vowels-of-all-substrings) |
+| [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2378-sender-with-largest-word-count](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2378-sender-with-largest-word-count) |
 ## Prefix Sum
 |  |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-first-day-where-you-have-been-in-all-the-rooms](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2124-first-day-where-you-have-been-in-all-the-rooms) |
 | [2164-two-best-non-overlapping-events](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2164-two-best-non-overlapping-events) |
 | [2187-vowels-of-all-substrings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2187-vowels-of-all-substrings) |
+| [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 ## Math
 |  |
 | ------- |
