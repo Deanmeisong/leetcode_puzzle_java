@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1091-maximum-average-subtree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1091-maximum-average-subtree) |
 | [1190-smallest-common-region](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1190-smallest-common-region) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1432-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1432-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1142-minimum-knight-moves](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1142-minimum-knight-moves) |
 | [1190-smallest-common-region](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1190-smallest-common-region) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1432-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1432-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1757-minimum-jumps-to-reach-home) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1101-parallel-courses](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1101-parallel-courses) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1738-maximal-network-rank](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1738-maximal-network-rank) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
@@ -577,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1101-parallel-courses](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1101-parallel-courses) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 ## Concurrency
 |  |
