@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1284-four-divisors](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1284-four-divisors) |
 | [1324-where-will-the-ball-fall](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1324-where-will-the-ball-fall) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
+| [1375-find-palindrome-with-fixed-length](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1375-find-palindrome-with-fixed-length) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1449-print-words-vertically](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1449-print-words-vertically) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1284-four-divisors](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1284-four-divisors) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1307-ugly-number-iii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1307-ugly-number-iii) |
+| [1375-find-palindrome-with-fixed-length](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1375-find-palindrome-with-fixed-length) |
 | [1543-simplified-fractions](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1543-simplified-fractions) |
 | [1585-the-kth-factor-of-n](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1585-the-kth-factor-of-n) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1674-minimum-operations-to-make-array-equal) |
