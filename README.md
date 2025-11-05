@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-vowels-of-all-substrings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2187-vowels-of-all-substrings) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2317-count-collisions-on-a-road](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2317-count-collisions-on-a-road) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2378-sender-with-largest-word-count](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2378-sender-with-largest-word-count) |
 ## Prefix Sum
 |  |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2145-grid-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2145-grid-game) |
 | [2165-plates-between-candles](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2165-plates-between-candles) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2369-maximum-sum-score-of-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2369-maximum-sum-score-of-array) |
 ## Breadth-First Search
 |  |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2164-two-best-non-overlapping-events) |
 | [2187-vowels-of-all-substrings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2187-vowels-of-all-substrings) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2325-number-of-ways-to-select-buildings) |
 ## Math
 |  |
 | ------- |
