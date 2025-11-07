@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1284-four-divisors](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1284-four-divisors) |
 | [1324-where-will-the-ball-fall](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1324-where-will-the-ball-fall) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1375-find-palindrome-with-fixed-length](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1375-find-palindrome-with-fixed-length) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1449-print-words-vertically](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1449-print-words-vertically) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1190-smallest-common-region](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1190-smallest-common-region) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1483-rank-teams-by-votes](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1483-rank-teams-by-votes) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1647-can-convert-string-in-k-moves](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1647-can-convert-string-in-k-moves) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1165-meeting-scheduler](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1165-meeting-scheduler) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1253-sort-the-matrix-diagonally) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1483-rank-teams-by-votes](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1483-rank-teams-by-votes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1143-find-smallest-common-element-in-all-rows) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1483-rank-teams-by-votes](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1483-rank-teams-by-votes) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1777-determine-if-two-strings-are-close) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1890-sum-of-beauty-of-all-substrings) |
