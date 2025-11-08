@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2329-maximum-product-after-k-increments](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2329-maximum-product-after-k-increments) |
 | [2369-maximum-sum-score-of-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2369-maximum-sum-score-of-array) |
 | [2378-sender-with-largest-word-count](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2378-sender-with-largest-word-count) |
+| [2385-count-positions-on-street-with-required-brightness](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2385-count-positions-on-street-with-required-brightness) |
 ## Simulation
 |  |
 | ------- |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2165-plates-between-candles](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2165-plates-between-candles) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2369-maximum-sum-score-of-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2369-maximum-sum-score-of-array) |
+| [2385-count-positions-on-street-with-required-brightness](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2385-count-positions-on-street-with-required-brightness) |
 ## Breadth-First Search
 |  |
 | ------- |
