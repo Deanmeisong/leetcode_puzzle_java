@@ -1,5 +1,6 @@
 class Solution {
     public int countLatticePoints(int[][] circles) {
+        // assigning the max x and max y
         int mx = 0, my = 0;
         for (var c : circles) {
             mx = Math.max(mx, c[0] + c[2]);
