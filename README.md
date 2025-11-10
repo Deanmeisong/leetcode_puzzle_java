@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2183-minimum-operations-to-convert-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2183-minimum-operations-to-convert-number) |
 | [2228-watering-plants-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2228-watering-plants-ii) |
 | [2329-maximum-product-after-k-increments](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2329-maximum-product-after-k-increments) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2369-maximum-sum-score-of-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2369-maximum-sum-score-of-array) |
 | [2378-sender-with-largest-word-count](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2378-sender-with-largest-word-count) |
 | [2385-count-positions-on-street-with-required-brightness](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2385-count-positions-on-street-with-required-brightness) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2080-check-if-move-is-legal](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2080-check-if-move-is-legal) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 ## Hash Table
 |  |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2378-sender-with-largest-word-count](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2378-sender-with-largest-word-count) |
 ## Sorting
 |  |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2187-vowels-of-all-substrings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2187-vowels-of-all-substrings) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 ## Combinatorics
 |  |
@@ -564,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2332-count-lattice-points-inside-a-circle) |
 ## Counting Sort
 |  |
 | ------- |
