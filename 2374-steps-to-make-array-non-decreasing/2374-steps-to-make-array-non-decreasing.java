@@ -5,10 +5,12 @@ class Solution {
         int n = nums.length;
         int[] dp = new int[n];
         for (int i = n - 1; i >= 0; --i) {
+            int f = 0;
             while (!stk.isEmpty() && nums[i] > nums[stk.peek()]) {
-                dp[i] = Math.max(dp[i] + 1, dp[stk.pop()]);
-                ans = Math.max(ans, dp[i]);
+                f = Math.max(f + 1, dp[stk.pop()]);
+                ans = Math.max(ans, f);
             }
+            dp[i] = f;
             stk.push(i);
         }
         return ans;
