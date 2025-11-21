@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2378-sender-with-largest-word-count](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2378-sender-with-largest-word-count) |
 | [2385-count-positions-on-street-with-required-brightness](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2385-count-positions-on-street-with-required-brightness) |
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
+| [2426-maximum-profit-from-trading-stocks](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2426-maximum-profit-from-trading-stocks) |
 ## Simulation
 |  |
 | ------- |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-vowels-of-all-substrings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2187-vowels-of-all-substrings) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2325-number-of-ways-to-select-buildings) |
+| [2426-maximum-profit-from-trading-stocks](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2426-maximum-profit-from-trading-stocks) |
 ## Math
 |  |
 | ------- |
