@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1375-find-palindrome-with-fixed-length](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1375-find-palindrome-with-fixed-length) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1418-fair-distribution-of-cookies](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1418-fair-distribution-of-cookies) |
 | [1449-print-words-vertically](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1449-print-words-vertically) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1483-rank-teams-by-votes](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1483-rank-teams-by-votes) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1134-shortest-distance-to-target-color](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1134-shortest-distance-to-target-color) |
+| [1418-fair-distribution-of-cookies](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1418-fair-distribution-of-cookies) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1628-count-submatrices-with-all-ones) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1418-fair-distribution-of-cookies](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1418-fair-distribution-of-cookies) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1860-find-kth-largest-xor-coordinate-value) |
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1418-fair-distribution-of-cookies](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1418-fair-distribution-of-cookies) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2107-find-unique-binary-string](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2107-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -670,4 +674,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2374-steps-to-make-array-non-decreasing) |
+## Bitmask
+|  |
+| ------- |
+| [1418-fair-distribution-of-cookies](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1418-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
