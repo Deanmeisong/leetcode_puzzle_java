@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2332-count-lattice-points-inside-a-circle) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2336-smallest-number-in-infinite-set) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2378-sender-with-largest-word-count](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2378-sender-with-largest-word-count) |
 ## Sorting
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2164-two-best-non-overlapping-events) |
 | [2329-maximum-product-after-k-increments](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2329-maximum-product-after-k-increments) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2336-smallest-number-in-infinite-set) |
 ## Game Theory
 |  |
 | ------- |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1946-minimum-absolute-sum-difference](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1946-minimum-absolute-sum-difference) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2336-smallest-number-in-infinite-set) |
 ## Recursion
 |  |
 | ------- |
@@ -672,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1572-subrectangle-queries](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1572-subrectangle-queries) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2336-smallest-number-in-infinite-set) |
 ## Monotonic Queue
 |  |
 | ------- |
