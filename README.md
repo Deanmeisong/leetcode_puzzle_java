@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2340-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2340-minimum-adjacent-swaps-to-make-a-valid-array) |
 | [2342-minimum-average-difference](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2342-minimum-average-difference) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2358-number-of-ways-to-split-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2358-number-of-ways-to-split-array) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2336-smallest-number-in-infinite-set) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2378-sender-with-largest-word-count](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2378-sender-with-largest-word-count) |
 ## Sorting
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2323-find-minimum-time-to-finish-all-jobs-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2323-find-minimum-time-to-finish-all-jobs-ii) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2332-the-latest-time-to-catch-a-bus) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 ## Dynamic Programming
 |  |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2164-two-best-non-overlapping-events) |
 | [2329-maximum-product-after-k-increments](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2329-maximum-product-after-k-increments) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2336-smallest-number-in-infinite-set) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Game Theory
 |  |
 | ------- |
