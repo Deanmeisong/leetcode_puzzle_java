@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2345-finding-the-number-of-visible-mountains](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2345-finding-the-number-of-visible-mountains) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2358-number-of-ways-to-split-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2358-number-of-ways-to-split-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2345-finding-the-number-of-visible-mountains](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2345-finding-the-number-of-visible-mountains) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 ## Dynamic Programming
 |  |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2317-count-collisions-on-a-road](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2317-count-collisions-on-a-road) |
+| [2345-finding-the-number-of-visible-mountains](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2345-finding-the-number-of-visible-mountains) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
 ## Counting
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1792-find-the-most-competitive-subsequence](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1985-maximum-subarray-min-product](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1985-maximum-subarray-min-product) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2345-finding-the-number-of-visible-mountains](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2345-finding-the-number-of-visible-mountains) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
 ## Bit Manipulation
