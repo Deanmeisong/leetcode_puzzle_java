@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2345-finding-the-number-of-visible-mountains](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2345-finding-the-number-of-visible-mountains) |
+| [2353-design-a-food-rating-system](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2353-design-a-food-rating-system) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2358-number-of-ways-to-split-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2358-number-of-ways-to-split-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-number-of-ways-to-select-buildings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2330-valid-palindrome-iv](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2330-valid-palindrome-iv) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2353-design-a-food-rating-system](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2353-design-a-food-rating-system) |
 | [2373-apply-discount-to-prices](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2373-apply-discount-to-prices) |
 | [2378-sender-with-largest-word-count](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2378-sender-with-largest-word-count) |
 ## Prefix Sum
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2336-smallest-number-in-infinite-set) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2353-design-a-food-rating-system](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2353-design-a-food-rating-system) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2378-sender-with-largest-word-count](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2378-sender-with-largest-word-count) |
 ## Sorting
@@ -601,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2336-smallest-number-in-infinite-set](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2336-smallest-number-in-infinite-set) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2353-design-a-food-rating-system](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2353-design-a-food-rating-system) |
 ## Game Theory
 |  |
 | ------- |
@@ -614,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1946-minimum-absolute-sum-difference](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1946-minimum-absolute-sum-difference) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2336-smallest-number-in-infinite-set) |
+| [2353-design-a-food-rating-system](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2353-design-a-food-rating-system) |
 ## Recursion
 |  |
 | ------- |
@@ -692,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1572-subrectangle-queries](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1572-subrectangle-queries) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2336-smallest-number-in-infinite-set) |
+| [2353-design-a-food-rating-system](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2353-design-a-food-rating-system) |
 ## Monotonic Queue
 |  |
 | ------- |
