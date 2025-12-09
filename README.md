@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1432-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1432-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2103-find-all-groups-of-farmland) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2364-count-number-of-bad-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2364-count-number-of-bad-pairs) |
 | [2365-task-scheduler-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2365-task-scheduler-ii) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2369-maximum-sum-score-of-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2369-maximum-sum-score-of-array) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2378-sender-with-largest-word-count](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2378-sender-with-largest-word-count) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-find-all-groups-of-farmland](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2103-find-all-groups-of-farmland) |
 | [2183-minimum-operations-to-convert-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2183-minimum-operations-to-convert-number) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Enumeration
 |  |
 | ------- |
@@ -389,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2364-count-number-of-bad-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2364-count-number-of-bad-pairs) |
 | [2365-task-scheduler-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2365-task-scheduler-ii) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2378-sender-with-largest-word-count](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2378-sender-with-largest-word-count) |
 ## Sorting
 |  |
@@ -685,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1738-maximal-network-rank](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1738-maximal-network-rank) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Topological Sort
 |  |
 | ------- |
@@ -719,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2035-count-sub-islands](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2035-count-sub-islands) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Shortest Path
 |  |
 | ------- |
