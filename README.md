@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2365-task-scheduler-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2365-task-scheduler-ii) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2370-longest-ideal-subsequence](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2370-longest-ideal-subsequence) |
+| [2374-node-with-highest-edge-score](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2374-node-with-highest-edge-score) |
 | [2378-sender-with-largest-word-count](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2378-sender-with-largest-word-count) |
 ## Sorting
 |  |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2374-node-with-highest-edge-score](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2374-node-with-highest-edge-score) |
 ## Topological Sort
 |  |
 | ------- |
