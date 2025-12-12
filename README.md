@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2340-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2340-minimum-adjacent-swaps-to-make-a-valid-array) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Matrix
 |  |
 | ------- |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2353-design-a-food-rating-system](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2353-design-a-food-rating-system) |
 | [2370-longest-ideal-subsequence](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2370-longest-ideal-subsequence) |
 | [2373-apply-discount-to-prices](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2373-apply-discount-to-prices) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2378-sender-with-largest-word-count](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2378-sender-with-largest-word-count) |
 ## Prefix Sum
 |  |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2317-count-collisions-on-a-road](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2317-count-collisions-on-a-road) |
 | [2345-finding-the-number-of-visible-mountains](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2345-finding-the-number-of-visible-mountains) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2374-steps-to-make-array-non-decreasing) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
 ## Counting
 |  |
@@ -666,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2107-find-unique-binary-string](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2107-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Divide and Conquer
 |  |
 | ------- |
