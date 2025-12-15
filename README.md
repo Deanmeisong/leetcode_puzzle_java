@@ -501,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2364-count-number-of-bad-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2364-count-number-of-bad-pairs) |
+| [2396-strictly-palindromic-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2396-strictly-palindromic-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2228-watering-plants-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2228-watering-plants-ii) |
 | [2330-valid-palindrome-iv](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2330-valid-palindrome-iv) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2332-the-latest-time-to-catch-a-bus) |
+| [2396-strictly-palindromic-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2396-strictly-palindromic-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -759,4 +761,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2343-query-kth-smallest-trimmed-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
