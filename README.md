@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-number-of-ways-to-select-buildings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2370-longest-ideal-subsequence](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2370-longest-ideal-subsequence) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2426-maximum-profit-from-trading-stocks) |
 ## Math
 |  |
@@ -505,12 +506,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2364-count-number-of-bad-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2364-count-number-of-bad-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2396-strictly-palindromic-number) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 ## Combinatorics
 |  |
 | ------- |
 | [1307-ugly-number-iii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1307-ugly-number-iii) |
 | [1761-count-sorted-vowel-strings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1761-count-sorted-vowel-strings) |
 | [2187-vowels-of-all-substrings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2187-vowels-of-all-substrings) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 ## Stack
 |  |
 | ------- |
