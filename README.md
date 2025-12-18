@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2381-shifting-letters-ii) |
 | [2385-count-positions-on-street-with-required-brightness](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2385-count-positions-on-street-with-required-brightness) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2401-longest-nice-subarray](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2401-longest-nice-subarray) |
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2426-maximum-profit-from-trading-stocks) |
 ## Simulation
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2001-jump-game-vii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2001-jump-game-vii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2401-longest-nice-subarray](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2401-longest-nice-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1940-maximum-xor-for-each-query) |
 | [2044-number-of-wonderful-substrings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2401-longest-nice-subarray](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2401-longest-nice-subarray) |
 ## Two Pointers
 |  |
 | ------- |
