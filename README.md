@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2378-sender-with-largest-word-count](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2378-sender-with-largest-word-count) |
 | [2381-shifting-letters-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2381-shifting-letters-ii) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 ## Prefix Sum
 |  |
 | ------- |
