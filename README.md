@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-find-all-groups-of-farmland](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2103-find-all-groups-of-farmland) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1432-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1432-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2183-minimum-operations-to-convert-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2183-minimum-operations-to-convert-number) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Enumeration
 |  |
 | ------- |
