@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2401-longest-nice-subarray](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2401-longest-nice-subarray) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
+| [2420-find-all-good-indices](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2420-find-all-good-indices) |
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2426-maximum-profit-from-trading-stocks) |
 ## Simulation
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2381-shifting-letters-ii) |
 | [2385-count-positions-on-street-with-required-brightness](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2385-count-positions-on-street-with-required-brightness) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2420-find-all-good-indices](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2420-find-all-good-indices) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2327-number-of-people-aware-of-a-secret](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2370-longest-ideal-subsequence](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2370-longest-ideal-subsequence) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
+| [2420-find-all-good-indices](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2420-find-all-good-indices) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2426-maximum-profit-from-trading-stocks) |
 ## Math
 |  |
