@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2420-find-all-good-indices](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2420-find-all-good-indices) |
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2426-maximum-profit-from-trading-stocks) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Simulation
 |  |
 | ------- |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2326-spiral-matrix-iv) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## String
 |  |
 | ------- |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-count-positions-on-street-with-required-brightness](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2385-count-positions-on-street-with-required-brightness) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2420-find-all-good-indices](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2420-find-all-good-indices) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Breadth-First Search
 |  |
 | ------- |
