@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2426-maximum-profit-from-trading-stocks) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2431-maximize-total-tastiness-of-purchased-fruits](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2431-maximize-total-tastiness-of-purchased-fruits) |
 ## Simulation
 |  |
 | ------- |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2420-find-all-good-indices](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2420-find-all-good-indices) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2426-maximum-profit-from-trading-stocks) |
+| [2431-maximize-total-tastiness-of-purchased-fruits](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2431-maximize-total-tastiness-of-purchased-fruits) |
 ## Math
 |  |
 | ------- |
