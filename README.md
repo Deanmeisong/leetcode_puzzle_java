@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2426-maximum-profit-from-trading-stocks](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2426-maximum-profit-from-trading-stocks) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2431-maximize-total-tastiness-of-purchased-fruits](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2431-maximize-total-tastiness-of-purchased-fruits) |
+| [2438-range-product-queries-of-powers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2438-range-product-queries-of-powers) |
 ## Simulation
 |  |
 | ------- |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2420-find-all-good-indices](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2420-find-all-good-indices) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2438-range-product-queries-of-powers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2438-range-product-queries-of-powers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2401-longest-nice-subarray](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2401-longest-nice-subarray) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
+| [2438-range-product-queries-of-powers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2438-range-product-queries-of-powers) |
 ## Two Pointers
 |  |
 | ------- |
