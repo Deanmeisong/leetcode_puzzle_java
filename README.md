@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2431-maximize-total-tastiness-of-purchased-fruits](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2431-maximize-total-tastiness-of-purchased-fruits) |
 | [2438-range-product-queries-of-powers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2438-range-product-queries-of-powers) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 ## Simulation
 |  |
 | ------- |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2364-count-number-of-bad-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2396-strictly-palindromic-number) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 ## Combinatorics
 |  |
 | ------- |
@@ -721,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1543-simplified-fractions](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1543-simplified-fractions) |
 | [1585-the-kth-factor-of-n](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1585-the-kth-factor-of-n) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 ## Graph
 |  |
 | ------- |
