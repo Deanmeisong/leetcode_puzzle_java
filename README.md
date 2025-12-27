@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2438-range-product-queries-of-powers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2438-range-product-queries-of-powers) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2453-destroy-sequential-targets](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2453-destroy-sequential-targets) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Simulation
 |  |
 | ------- |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2374-node-with-highest-edge-score](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2374-node-with-highest-edge-score) |
 | [2378-sender-with-largest-word-count](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2378-sender-with-largest-word-count) |
 | [2453-destroy-sequential-targets](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2453-destroy-sequential-targets) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
 | ------- |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-jump-game-vii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2001-jump-game-vii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2401-longest-nice-subarray](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2401-longest-nice-subarray) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Monotonic Stack
 |  |
 | ------- |
