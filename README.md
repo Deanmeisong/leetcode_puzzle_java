@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2467-most-profitable-path-in-a-tree) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Simulation
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2365-task-scheduler-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2365-task-scheduler-ii) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Greedy
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## String
 |  |
 | ------- |
