@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2381-shifting-letters-ii) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2420-find-all-good-indices](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2420-find-all-good-indices) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2438-range-product-queries-of-powers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2438-range-product-queries-of-powers) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Breadth-First Search
 |  |
 | ------- |
