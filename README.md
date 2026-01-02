@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Simulation
 |  |
 | ------- |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2378-sender-with-largest-word-count](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2378-sender-with-largest-word-count) |
 | [2453-destroy-sequential-targets](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2453-destroy-sequential-targets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
 | ------- |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2345-finding-the-number-of-visible-mountains](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2345-finding-the-number-of-visible-mountains) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -664,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2396-strictly-palindromic-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2396-strictly-palindromic-number) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
