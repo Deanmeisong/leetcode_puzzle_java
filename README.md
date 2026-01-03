@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2467-most-profitable-path-in-a-tree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2498-frog-jump-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2498-frog-jump-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2498-frog-jump-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2498-frog-jump-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
+| [2498-frog-jump-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2498-frog-jump-ii) |
 ## Sliding Window
 |  |
 | ------- |
