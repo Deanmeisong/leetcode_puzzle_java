@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2498-frog-jump-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2498-frog-jump-ii) |
+| [2512-reward-top-k-students](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2512-reward-top-k-students) |
 ## Simulation
 |  |
 | ------- |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2512-reward-top-k-students](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2512-reward-top-k-students) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2453-destroy-sequential-targets](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2453-destroy-sequential-targets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2512-reward-top-k-students](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2512-reward-top-k-students) |
 ## Sorting
 |  |
 | ------- |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2345-finding-the-number-of-visible-mountains](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2345-finding-the-number-of-visible-mountains) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2512-reward-top-k-students](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2512-reward-top-k-students) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -691,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2353-design-a-food-rating-system](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2353-design-a-food-rating-system) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2512-reward-top-k-students](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2512-reward-top-k-students) |
 ## Game Theory
 |  |
 | ------- |
