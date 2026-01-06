@@ -553,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2396-strictly-palindromic-number) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2513-minimize-the-maximum-of-two-arrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 ## Combinatorics
 |  |
 | ------- |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2498-frog-jump-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2498-frog-jump-ii) |
+| [2513-minimize-the-maximum-of-two-arrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1585-the-kth-factor-of-n) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2513-minimize-the-maximum-of-two-arrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 ## Graph
 |  |
 | ------- |
