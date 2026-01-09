@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-construct-smallest-number-from-di-string](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2498-frog-jump-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2498-frog-jump-ii) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 ## Matrix
 |  |
 | ------- |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2512-reward-top-k-students](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2512-reward-top-k-students) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2420-find-all-good-indices](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2420-find-all-good-indices) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2426-maximum-profit-from-trading-stocks) |
 | [2431-maximize-total-tastiness-of-purchased-fruits](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2431-maximize-total-tastiness-of-purchased-fruits) |
+| [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 ## Math
 |  |
 | ------- |
