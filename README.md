@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2498-frog-jump-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2498-frog-jump-ii) |
+| [2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [2512-reward-top-k-students](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2512-reward-top-k-students) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Simulation
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 ## String
 |  |
 | ------- |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2420-find-all-good-indices](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2420-find-all-good-indices) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2426-maximum-profit-from-trading-stocks) |
 | [2431-maximize-total-tastiness-of-purchased-fruits](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2431-maximize-total-tastiness-of-purchased-fruits) |
+| [2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 ## Math
 |  |
