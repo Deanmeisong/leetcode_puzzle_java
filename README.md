@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2512-reward-top-k-students](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2512-reward-top-k-students) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
+| [2531-make-number-of-distinct-characters-equal](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2531-make-number-of-distinct-characters-equal) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2512-reward-top-k-students](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2512-reward-top-k-students) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2531-make-number-of-distinct-characters-equal](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2531-make-number-of-distinct-characters-equal) |
 ## Sorting
 |  |
 | ------- |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2364-count-number-of-bad-pairs) |
 | [2378-sender-with-largest-word-count](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2378-sender-with-largest-word-count) |
 | [2453-destroy-sequential-targets](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2453-destroy-sequential-targets) |
+| [2531-make-number-of-distinct-characters-equal](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2531-make-number-of-distinct-characters-equal) |
 ## Binary Search
 |  |
 | ------- |
