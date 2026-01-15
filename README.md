@@ -534,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2431-maximize-total-tastiness-of-purchased-fruits](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2431-maximize-total-tastiness-of-purchased-fruits) |
 | [2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
+| [2533-number-of-good-binary-strings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2533-number-of-good-binary-strings) |
 ## Math
 |  |
 | ------- |
