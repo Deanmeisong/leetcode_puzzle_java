@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2527-find-xor-beauty-of-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2527-find-xor-beauty-of-array) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2542-maximum-subsequence-score](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2542-maximum-subsequence-score) |
 ## Simulation
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2531-make-number-of-distinct-characters-equal) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2537-count-the-number-of-good-subarrays) |
 ## Sorting
 |  |
 | ------- |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-longest-nice-subarray](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2537-count-the-number-of-good-subarrays) |
 ## Monotonic Stack
 |  |
 | ------- |
