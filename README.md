@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/0001-two-sum) |
 | [1134-shortest-distance-to-target-color](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1134-shortest-distance-to-target-color) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1165-meeting-scheduler](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1165-meeting-scheduler) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/0001-two-sum) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1190-smallest-common-region](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1190-smallest-common-region) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1354-find-players-with-zero-or-one-losses) |
