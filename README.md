@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 ## Binary Tree
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2537-count-the-number-of-good-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2542-maximum-subsequence-score](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2542-maximum-subsequence-score) |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Simulation
 |  |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 ## String
 |  |
 | ------- |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 ## Enumeration
 |  |
 | ------- |
@@ -548,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2533-number-of-good-binary-strings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2533-number-of-good-binary-strings) |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 ## Math
 |  |
 | ------- |
