@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2542-maximum-subsequence-score) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2564-substring-xor-queries](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2564-substring-xor-queries) |
 ## Simulation
 |  |
 | ------- |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2531-make-number-of-distinct-characters-equal) |
+| [2564-substring-xor-queries](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2564-substring-xor-queries) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2564-substring-xor-queries](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2564-substring-xor-queries) |
 ## Sorting
 |  |
 | ------- |
@@ -701,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2438-range-product-queries-of-powers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2438-range-product-queries-of-powers) |
 | [2527-find-xor-beauty-of-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2527-find-xor-beauty-of-array) |
+| [2564-substring-xor-queries](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2564-substring-xor-queries) |
 ## Two Pointers
 |  |
 | ------- |
