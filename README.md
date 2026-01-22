@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2564-substring-xor-queries](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2564-substring-xor-queries) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2568-minimum-impossible-or](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2568-minimum-impossible-or) |
 ## Simulation
 |  |
 | ------- |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2438-range-product-queries-of-powers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2438-range-product-queries-of-powers) |
 | [2527-find-xor-beauty-of-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2527-find-xor-beauty-of-array) |
 | [2564-substring-xor-queries](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2564-substring-xor-queries) |
+| [2568-minimum-impossible-or](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2568-minimum-impossible-or) |
 ## Two Pointers
 |  |
 | ------- |
@@ -890,4 +892,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2396-strictly-palindromic-number) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
+| [2568-minimum-impossible-or](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2568-minimum-impossible-or) |
 <!---LeetCode Topics End-->
