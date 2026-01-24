@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2568-minimum-impossible-or](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2568-minimum-impossible-or) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2575-find-the-divisibility-array-of-a-string) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Simulation
 |  |
 | ------- |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2542-maximum-subsequence-score](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2542-maximum-subsequence-score) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Matrix
 |  |
 | ------- |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2542-maximum-subsequence-score) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -673,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Sliding Window
 |  |
 | ------- |
@@ -734,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
