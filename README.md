@@ -605,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-find-xor-beauty-of-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2527-find-xor-beauty-of-array) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2575-find-the-divisibility-array-of-a-string) |
+| [2579-count-total-number-of-colored-cells](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2579-count-total-number-of-colored-cells) |
 ## Combinatorics
 |  |
 | ------- |
