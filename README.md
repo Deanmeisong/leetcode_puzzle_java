@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Simulation
 |  |
 | ------- |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2438-range-product-queries-of-powers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2438-range-product-queries-of-powers) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2531-make-number-of-distinct-characters-equal](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2564-substring-xor-queries](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2564-substring-xor-queries) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Sorting
 |  |
 | ------- |
@@ -722,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-find-xor-beauty-of-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2527-find-xor-beauty-of-array) |
 | [2564-substring-xor-queries](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2564-substring-xor-queries) |
 | [2568-minimum-impossible-or](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2568-minimum-impossible-or) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
