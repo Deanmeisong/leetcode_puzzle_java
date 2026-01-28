@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2594-minimum-time-to-repair-cars](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2594-minimum-time-to-repair-cars) |
 ## Simulation
 |  |
 | ------- |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2576-find-the-maximum-number-of-marked-indices) |
+| [2594-minimum-time-to-repair-cars](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2594-minimum-time-to-repair-cars) |
 ## Sliding Window
 |  |
 | ------- |
