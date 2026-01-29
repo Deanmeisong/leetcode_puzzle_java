@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2467-most-profitable-path-in-a-tree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [2596-check-knight-tour-configuration](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2594-minimum-time-to-repair-cars) |
+| [2596-check-knight-tour-configuration](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2365-task-scheduler-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2365-task-scheduler-ii) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2596-check-knight-tour-configuration](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2596-check-knight-tour-configuration) |
 ## Greedy
 |  |
 | ------- |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [2596-check-knight-tour-configuration](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2596-check-knight-tour-configuration) |
 ## String
 |  |
 | ------- |
@@ -427,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2467-most-profitable-path-in-a-tree](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [2596-check-knight-tour-configuration](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2596-check-knight-tour-configuration) |
 ## Enumeration
 |  |
 | ------- |
