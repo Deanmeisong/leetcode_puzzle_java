@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2594-minimum-time-to-repair-cars) |
 | [2596-check-knight-tour-configuration](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2596-check-knight-tour-configuration) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 ## Matrix
 |  |
 | ------- |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2537-count-the-number-of-good-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2564-substring-xor-queries](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2564-substring-xor-queries) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -619,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2579-count-total-number-of-colored-cells](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2579-count-total-number-of-colored-cells) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 ## Combinatorics
 |  |
 | ------- |
