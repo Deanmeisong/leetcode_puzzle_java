@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-check-knight-tour-configuration](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2596-check-knight-tour-configuration) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [2601-prime-subtraction-operation](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2601-prime-subtraction-operation) |
 ## Simulation
 |  |
 | ------- |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2592-maximize-greatness-of-an-array) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [2601-prime-subtraction-operation](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2601-prime-subtraction-operation) |
 ## Matrix
 |  |
 | ------- |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2579-count-total-number-of-colored-cells](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2579-count-total-number-of-colored-cells) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [2601-prime-subtraction-operation](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2601-prime-subtraction-operation) |
 ## Combinatorics
 |  |
 | ------- |
@@ -705,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2594-minimum-time-to-repair-cars) |
+| [2601-prime-subtraction-operation](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2601-prime-subtraction-operation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -857,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2601-prime-subtraction-operation](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2601-prime-subtraction-operation) |
 ## Graph
 |  |
 | ------- |
