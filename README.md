@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2601-prime-subtraction-operation](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2601-prime-subtraction-operation) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2606-find-the-substring-with-maximum-cost) |
 ## Simulation
 |  |
 | ------- |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2531-make-number-of-distinct-characters-equal](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2564-substring-xor-queries](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2564-substring-xor-queries) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2575-find-the-divisibility-array-of-a-string) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2606-find-the-substring-with-maximum-cost) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2606-find-the-substring-with-maximum-cost) |
 ## Sorting
 |  |
 | ------- |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-number-of-good-binary-strings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2533-number-of-good-binary-strings) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2606-find-the-substring-with-maximum-cost) |
 ## Math
 |  |
 | ------- |
