@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2601-prime-subtraction-operation](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2601-prime-subtraction-operation) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2606-find-the-substring-with-maximum-cost) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Simulation
 |  |
 | ------- |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2606-find-the-substring-with-maximum-cost) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Sorting
 |  |
 | ------- |
