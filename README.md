@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2615-sum-of-distances](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2615-sum-of-distances) |
 ## Simulation
 |  |
 | ------- |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [2615-sum-of-distances](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2615-sum-of-distances) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2615-sum-of-distances](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2615-sum-of-distances) |
 ## Sorting
 |  |
 | ------- |
