@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2615-sum-of-distances](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2615-sum-of-distances) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2615-sum-of-distances](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2615-sum-of-distances) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Breadth-First Search
 |  |
 | ------- |
