@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2615-sum-of-distances) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Simulation
 |  |
 | ------- |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2601-prime-subtraction-operation](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2601-prime-subtraction-operation) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Combinatorics
 |  |
 | ------- |
@@ -882,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2601-prime-subtraction-operation](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2601-prime-subtraction-operation) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Graph
 |  |
 | ------- |
