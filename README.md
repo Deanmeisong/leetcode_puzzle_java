@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2655-find-maximal-uncovered-ranges](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2655-find-maximal-uncovered-ranges) |
 ## Simulation
 |  |
 | ------- |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2655-find-maximal-uncovered-ranges](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2655-find-maximal-uncovered-ranges) |
 ## Dynamic Programming
 |  |
 | ------- |
