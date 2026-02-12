@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2655-find-maximal-uncovered-ranges](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2655-find-maximal-uncovered-ranges) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-find-the-substring-with-maximum-cost](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2615-sum-of-distances](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -774,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-substring-xor-queries](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2564-substring-xor-queries) |
 | [2568-minimum-impossible-or](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2568-minimum-impossible-or) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
