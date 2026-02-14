@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2317-count-collisions-on-a-road](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2317-count-collisions-on-a-road) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2330-valid-palindrome-iv](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2330-valid-palindrome-iv) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2353-design-a-food-rating-system](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2353-design-a-food-rating-system) |
 | [2370-longest-ideal-subsequence](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2370-longest-ideal-subsequence) |
@@ -794,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2228-watering-plants-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2228-watering-plants-ii) |
 | [2330-valid-palindrome-iv](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2330-valid-palindrome-iv) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2332-the-latest-time-to-catch-a-bus) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2396-strictly-palindromic-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2396-strictly-palindromic-number) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2491-divide-players-into-teams-of-equal-skill) |
