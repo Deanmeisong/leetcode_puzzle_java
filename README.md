@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2323-find-minimum-time-to-finish-all-jobs-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2323-find-minimum-time-to-finish-all-jobs-ii) |
 | [2329-maximum-product-after-k-increments](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2329-maximum-product-after-k-increments) |
 | [2340-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2340-minimum-adjacent-swaps-to-make-a-valid-array) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2165-plates-between-candles](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2165-plates-between-candles) |
 | [2187-vowels-of-all-substrings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2187-vowels-of-all-substrings) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2317-count-collisions-on-a-road](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2317-count-collisions-on-a-road) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2330-valid-palindrome-iv](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2330-valid-palindrome-iv) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2164-two-best-non-overlapping-events) |
 | [2187-vowels-of-all-substrings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2187-vowels-of-all-substrings) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2327-number-of-people-aware-of-a-secret) |
@@ -967,4 +970,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2396-strictly-palindromic-number) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2568-minimum-impossible-or](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2568-minimum-impossible-or) |
+## Memoization
+|  |
+| ------- |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
