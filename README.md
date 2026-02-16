@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2183-minimum-operations-to-convert-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2183-minimum-operations-to-convert-number) |
 | [2228-watering-plants-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2228-watering-plants-ii) |
+| [2297-jump-game-viii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2297-jump-game-viii) |
 | [2323-find-minimum-time-to-finish-all-jobs-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2323-find-minimum-time-to-finish-all-jobs-ii) |
 | [2326-spiral-matrix-iv](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2326-spiral-matrix-iv) |
 | [2329-maximum-product-after-k-increments](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2329-maximum-product-after-k-increments) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2164-two-best-non-overlapping-events) |
 | [2187-vowels-of-all-substrings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2187-vowels-of-all-substrings) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
+| [2297-jump-game-viii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2297-jump-game-viii) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2325-number-of-ways-to-select-buildings) |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2297-jump-game-viii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2297-jump-game-viii) |
 | [2317-count-collisions-on-a-road](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2317-count-collisions-on-a-road) |
 | [2345-finding-the-number-of-visible-mountains](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2345-finding-the-number-of-visible-mountains) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2374-steps-to-make-array-non-decreasing) |
@@ -760,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1792-find-the-most-competitive-subsequence](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1985-maximum-subarray-min-product](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1985-maximum-subarray-min-product) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2297-jump-game-viii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2297-jump-game-viii) |
 | [2345-finding-the-number-of-visible-mountains](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2345-finding-the-number-of-visible-mountains) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
@@ -947,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+| [2297-jump-game-viii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2297-jump-game-viii) |
 ## Trie
 |  |
 | ------- |
@@ -974,4 +979,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Graph Theory
+|  |
+| ------- |
+| [2297-jump-game-viii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2297-jump-game-viii) |
 <!---LeetCode Topics End-->
