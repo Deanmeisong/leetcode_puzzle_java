@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2295-replace-elements-in-an-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2295-replace-elements-in-an-array) |
 | [2297-jump-game-viii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2297-jump-game-viii) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2323-find-minimum-time-to-finish-all-jobs-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2323-find-minimum-time-to-finish-all-jobs-ii) |
 | [2326-spiral-matrix-iv](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2326-spiral-matrix-iv) |
 | [2329-maximum-product-after-k-increments](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2329-maximum-product-after-k-increments) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-find-all-groups-of-farmland](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2103-find-all-groups-of-farmland) |
 | [2145-grid-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2326-spiral-matrix-iv](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2326-spiral-matrix-iv) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-vowels-of-all-substrings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2187-vowels-of-all-substrings) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2297-jump-game-viii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2297-jump-game-viii) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2325-number-of-ways-to-select-buildings) |
