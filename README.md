@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2329-maximum-product-after-k-increments](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2329-maximum-product-after-k-increments) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2332-the-latest-time-to-catch-a-bus) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2340-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2340-minimum-adjacent-swaps-to-make-a-valid-array) |
 | [2342-minimum-average-difference](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2342-minimum-average-difference) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2323-find-minimum-time-to-finish-all-jobs-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2323-find-minimum-time-to-finish-all-jobs-ii) |
 | [2329-maximum-product-after-k-increments](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2329-maximum-product-after-k-increments) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2340-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2340-minimum-adjacent-swaps-to-make-a-valid-array) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2285-maximum-total-importance-of-roads](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2285-maximum-total-importance-of-roads) |
 | [2323-find-minimum-time-to-finish-all-jobs-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2323-find-minimum-time-to-finish-all-jobs-ii) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2332-the-latest-time-to-catch-a-bus) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2345-finding-the-number-of-visible-mountains](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2345-finding-the-number-of-visible-mountains) |
@@ -753,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2332-the-latest-time-to-catch-a-bus) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2498-frog-jump-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2498-frog-jump-ii) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2513-minimize-the-maximum-of-two-arrays) |
@@ -849,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2164-two-best-non-overlapping-events) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2285-maximum-total-importance-of-roads) |
 | [2329-maximum-product-after-k-increments](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2329-maximum-product-after-k-increments) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2336-smallest-number-in-infinite-set) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2343-query-kth-smallest-trimmed-number) |
