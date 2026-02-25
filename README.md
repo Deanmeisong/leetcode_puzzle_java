@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2117-find-original-array-from-doubled-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-maximum-subarray-min-product](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1985-maximum-subarray-min-product) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2297-jump-game-viii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2297-jump-game-viii) |
 | [2317-count-collisions-on-a-road](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2317-count-collisions-on-a-road) |
