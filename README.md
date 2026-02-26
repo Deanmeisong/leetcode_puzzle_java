@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-find-all-groups-of-farmland](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2103-find-all-groups-of-farmland) |
 | [2107-find-unique-binary-string](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2117-find-original-array-from-doubled-array) |
 | [2121-intervals-between-identical-elements](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2121-intervals-between-identical-elements) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-describe-the-painting](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2055-describe-the-painting) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2107-find-unique-binary-string) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2117-find-original-array-from-doubled-array) |
 | [2121-intervals-between-identical-elements](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2121-intervals-between-identical-elements) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -954,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1101-parallel-courses](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1101-parallel-courses) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Concurrency
 |  |
 | ------- |
@@ -1018,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2285-maximum-total-importance-of-roads) |
 | [2297-jump-game-viii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2297-jump-game-viii) |
 <!---LeetCode Topics End-->
