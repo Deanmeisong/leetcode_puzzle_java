@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2228-watering-plants-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2228-watering-plants-ii) |
 | [2295-replace-elements-in-an-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2295-replace-elements-in-an-array) |
 | [2317-count-collisions-on-a-road](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2317-count-collisions-on-a-road) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
