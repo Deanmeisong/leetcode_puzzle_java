@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2228-watering-plants-ii](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2228-watering-plants-ii) |
 | [2295-replace-elements-in-an-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2295-replace-elements-in-an-array) |
 | [2317-count-collisions-on-a-road](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2317-count-collisions-on-a-road) |
@@ -1005,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2326-spiral-matrix-iv](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2326-spiral-matrix-iv) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2374-steps-to-make-array-non-decreasing) |
 ## Bitmask
