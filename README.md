@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2117-find-original-array-from-doubled-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2117-find-original-array-from-doubled-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2182-construct-string-with-repeat-limit) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2165-plates-between-candles](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2165-plates-between-candles) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2182-construct-string-with-repeat-limit) |
 | [2187-vowels-of-all-substrings](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2187-vowels-of-all-substrings) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2182-construct-string-with-repeat-limit) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2295-replace-elements-in-an-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2295-replace-elements-in-an-array) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2332-count-lattice-points-inside-a-circle) |
@@ -740,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2182-construct-string-with-repeat-limit) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2364-count-number-of-bad-pairs](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2364-count-number-of-bad-pairs) |
@@ -867,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2164-two-best-non-overlapping-events) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2182-construct-string-with-repeat-limit) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2285-maximum-total-importance-of-roads) |
 | [2329-maximum-product-after-k-increments](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2329-maximum-product-after-k-increments) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/2333-minimum-sum-of-squared-difference) |
