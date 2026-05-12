@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/0012-integer-to-roman) |
 | [1190-smallest-common-region](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1190-smallest-common-region) |
 | [1449-print-words-vertically](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1449-print-words-vertically) |
 | [1483-rank-teams-by-votes](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1483-rank-teams-by-votes) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/0012-integer-to-roman) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1190-smallest-common-region](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1190-smallest-common-region) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/0012-integer-to-roman) |
 | [1276-closest-divisors](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1276-closest-divisors) |
 | [1284-four-divisors](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1284-four-divisors) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Deanmeisong/leetcode_puzzle_java/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
